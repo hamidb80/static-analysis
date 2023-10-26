@@ -722,6 +722,9 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 - [nimfmt](https://github.com/FedericoCeratto/nimfmt) :warning: — Nim code formatter / linter / style checker
 
 
+- [Nimalyzer](https://github.com/thindil/nimalyzer) — static code analyzer for Nim programming language
+
+
 <h2 id="ocaml">Ocaml</h2>
 
 
